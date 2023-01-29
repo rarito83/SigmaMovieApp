@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SigmaMovieApp</string>
+    <string name="movie">Movie</string>
+    <string name="tvShow">Tv Show</string>
+    <string name="des_poster">Content Image Poster</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_poster">image poster</string>
+    <string name="title_viewers">. Viewers</string>
+    <string name="content_image_back">Content Image Back</string>
 </resources>
